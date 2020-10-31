@@ -9,5 +9,6 @@ console.log('Printing factorial examples.');
 console.log('0 - ', factorial(0));
 console.log('1 - ', factorial(1));
 console.log('2 - ', factorial(2));
+console.log('5 - ', factorial(5));
 console.log('10 - ', factorial(10));
 console.log('15 - ', factorial(15));
